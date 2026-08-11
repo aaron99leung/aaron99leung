@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="avatar_ascii" width="100%" />
+<img src="avatar_art.svg width="100%" />
 </td>
 <td width="50%" valign="top">
 <h3 style="font-size:20px;"> About Me ⭐ </h3>
