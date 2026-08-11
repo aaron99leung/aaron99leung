@@ -3,21 +3,13 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  
+<img src="avatar_ascii.svg" width="100%" />
 </td>
 <td width="50%" valign="top">
+### 🛠️ Tech Stack
+  
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode" />
+
 </td>
 </tr>
 </table>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
