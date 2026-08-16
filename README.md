@@ -13,7 +13,7 @@
 <h3 style="font-size:20px;"> About Me ⭐ </h3>
 
 <sub>
-Aspiring software developer based in London - transitioning from Economics/Finance background into tech, I build full-stack web apps with <b>Next.js</b> and <b>TypeScript</b>, with AI-assisted workflows. Recently built an AI-powered travel itinerary planner using Claude
+Aspiring software developer based in London - transitioning from Economics/Finance background into tech, I build full-stack web apps with <b>Next.js</b> and <b>TypeScript</b>, with AI-assisted workflows. Recently built an AI-powered travel itinerary planner using Claude Code
 </sub>
 
 <h3 style="font-size:20px;"> Tech Stack 💾 </h3>
