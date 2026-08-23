@@ -18,7 +18,7 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 
 <h3 style="font-size:20px;"> Tech Stack 💾 </h3>
   
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode,postman,vitest" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode,prisma,postman,vitest" />
 
 <h3 style="font-size:20px;"> Currently working on 🗂️ </h3>
 
