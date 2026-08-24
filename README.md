@@ -24,7 +24,7 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 💼 Open to Software Developer opportunities in London
 </p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=date_night)
 
 </td>
 </tr>
