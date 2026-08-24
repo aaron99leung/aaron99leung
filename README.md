@@ -12,21 +12,17 @@
 <td width="50%" valign="top">
 <h3 style="font-size:20px;"> About Me ⭐ </h3>
 
-<div>
+<p>
 Aspiring software developer based in London - transitioning from Economics/Finance background into tech, I build full-stack web apps with <b>Next.js</b> and <b>TypeScript</b>, with AI-assisted workflows. Recently built an AI-powered travel itinerary planner using Claude Code
-</div>
-
-<br/><br/>
+</p>
 
 <h3 style="font-size:20px;"> Currently 📍 </h3>
 
-<div>
+<p>
 🔭 Recently shipped a full-stack NFL pick'em tracker (Next.js, Prisma, Postgres, Better Auth)
 🌱 Deepening frontend and backend skills
 💼 Open to Software Developer opportunities in London
-</div>
-
-<br/><br/>
+</p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)
 
