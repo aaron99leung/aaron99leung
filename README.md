@@ -18,11 +18,17 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 
 <br/><br/>
 
+<h3 style="font-size:20px;"> Currently 📍 </h3>
+
 <sub>
 🔭 Recently shipped a full-stack NFL pick'em tracker (Next.js, Prisma, Postgres, Better Auth)
 🌱 Deepening frontend and backend skills
 💼 Open to Software Developer opportunities in London
 </sub>
+
+<br/><br/>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=aaron99leung&layout=compact&langs_count=4&theme=calm_pink)
 
 </td>
 </tr>
