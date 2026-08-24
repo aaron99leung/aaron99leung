@@ -16,11 +16,9 @@
 Aspiring software developer based in London - transitioning from Economics/Finance background into tech, I build full-stack web apps with <b>Next.js</b> and <b>TypeScript</b>, with AI-assisted workflows. Recently built an AI-powered travel itinerary planner using Claude Code
 </sub>
 
-
-
 <sub>
-🔭 Currently building AI-powered web apps with Next.js & Claude<br/>
-🌱 Learning more about full-stack development and AI integration<br/>
+🔭 Recently shipped a full-stack NFL pick'em tracker (Next.js, Prisma, Postgres, Better Auth) <br/>
+🌱 Deepening frontend and backend skills <br/>
 💼 Open to Software Developer opportunities in London
 </sub>
 
