@@ -16,11 +16,7 @@
 Aspiring software developer based in London - transitioning from Economics/Finance background into tech, I build full-stack web apps with <b>Next.js</b> and <b>TypeScript</b>, with AI-assisted workflows. Recently built an AI-powered travel itinerary planner using Claude Code
 </sub>
 
-<h3 style="font-size:20px;"> Tech Stack 💾 </h3>
-  
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode,prisma,postgres,postman,vitest" />
 
-<h3 style="font-size:20px;"> Currently working on 🗂️ </h3>
 
 <sub>
 🔭 Currently building AI-powered web apps with Next.js & Claude<br/>
@@ -31,3 +27,10 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 </td>
 </tr>
 </table>
+
+<div>
+## 💾 Tech Stack 💾 ##
+  
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode,prisma,postgres,postman,vitest" />
+
+</div>
