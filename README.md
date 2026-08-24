@@ -19,8 +19,8 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 <h3 style="font-size:20px;"> Currently 📍 </h3>
 
 <p>
-🔭 Recently shipped a full-stack NFL pick'em tracker (Next.js, Prisma, Postgres, Better Auth)
-🌱 Deepening frontend and backend skills
+🔭 Recently shipped a full-stack NFL pick'em tracker (Next.js, Prisma, Postgres, Better Auth) <br/>
+🌱 Deepening frontend and backend skills <br/>
 💼 Open to Software Developer opportunities in London
 </p>
 
