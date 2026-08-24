@@ -29,7 +29,7 @@ Aspiring software developer based in London - transitioning from Economics/Finan
 </table>
 
 <div>
-## 💾 Tech Stack 💾 ##
+<h1>💾 Tech Stack 💾</h1>
   
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,github,vercel,threejs,vscode,prisma,postgres,postman,vitest" />
 
